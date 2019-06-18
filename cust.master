@@ -39,15 +39,15 @@
     <style type="text/css">
         /* Navbar */
         .navbar {
-            min-height: 33px !important;
+            min-height: 55px !important;
             margin-bottom: 0;
             border-radius: 0;
         }
 
         .navbar-nav > li > a, .navbar-brand {
-            padding-top: 6px !important;
+            padding-top: 16px !important;
             padding-bottom: 0 !important;
-            height: 33px;
+            height: 55px;
         }
 
         .navbar-default {
