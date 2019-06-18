@@ -203,7 +203,9 @@
                         </div>
                         <div class="col-sm-3">
                             <div class="social-networks">
-                                <a href="https://twitter.com/" class="twitter"><i class="fa fa-twitter"></i></a>
+                                <a href="https://twitter.com/" class="twitter"><a href="MenProducts3.aspx">
+                                <asp:HyperLink ID="HyperLink1" runat="server">HyperLink</asp:HyperLink>
+                                </a><i class="fa fa-twitter"></i></a>
                                 <a href="https://www.facebook.com/" class="facebook"><i class="fa fa-facebook"></i></a>
                                 <a href="https://www.google.com/" class="google"><i class="fa fa-google-plus"></i></a>
                             </div>
