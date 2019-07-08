@@ -194,11 +194,11 @@
                             <li><a href="viewPO.aspx">Purchase Order</a></li>
                         </ul>
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="login.aspx">
+                            <li><a href="adminLogin.aspx">
                                 <asp:Label ID="welcome" runat="server" Text="Login"></asp:Label></a>
                             </li>
                             <li>
-                                <asp:LinkButton runat="server" OnClick="lbtnLogout_Click" Text="Logout" ID="lbtnLogout"></asp:LinkButton>
+                                <asp:LinkButton runat="server" Text="Logout" ID="lbtnLogout"></asp:LinkButton>
 
                             </li>
                             <%--<li>
